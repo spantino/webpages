@@ -11,6 +11,9 @@ p {
     
      
 }
+body {
+  background-color: lightblue;
+}
 
 .table-border {
    border: 1px outset #000000;
