@@ -7,18 +7,17 @@
  */
  
 p {
-    font family:Times ;
-    font-size:16px;
-    color:#FFFFFF;
+    color:#FFFFF9;
     
      
 }
 
 .table-border {
-   border: 1px solid #FFFFFF;
+   border: 1px outset #000000;
 }
 
 #photo-resize {
-    max-width: 250px;
-    max-height:300px;
+    max-width: 200px;
+    max-height:250px;
+    border: 2px outset #44aa22;
 }
